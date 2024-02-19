@@ -1,5 +1,12 @@
+html,
+body {
+  width: 400px;
+  height: 100vh;
+}
+
 .App {
   text-align: center;
+  padding: 20px 0;
 }
 
 .App-logo {
